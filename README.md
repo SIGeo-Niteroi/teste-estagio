@@ -8,7 +8,7 @@
     <li>Escolha a linguagem de sua preferência e será disponibilizado um ambiente pronto para javascript e python, porém não é obrigatório</li>
     <li>Se não tiver conhecimento ou afinidade com nenhuma linguagem de programação, o teste poderá ser realizado utilizando um pseudocódigo</li>
     <li>Se não conseguir fazer alguma parte do teste, pode mandá-lo incompleto e com a explicação do que você pensou para possivelmente resolver o que não conseguiu</li>
-    <li>Escreva um texto de como você ralizou o teste. Pode ser escrito como comentário no sandbox, um README em um repositório do github ou apenas um documento no Word</li>
+    <li>Escreva um texto de como você realizou o teste. Pode ser escrito como comentário no sandbox, um README em um repositório do github ou apenas um documento no Word</li>
     <li>Data de entrega: até 10/09/2024 (terça-feira) às 17h</li>
     <li>Envie todos os links e arquivos para o e-mail: estagio@sigeo.niteroi.rj.gov.br</li>
   </ol>
